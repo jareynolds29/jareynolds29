@@ -1,5 +1,5 @@
 <div align='center'><h2>Howdy! I'm Jake</h2></div> 
-<p align='center'>I'm a Junior Web Developer, currently learning PHP, JavaScript, SCSS and Lua</p>
+<p align='center'>I'm an Apprentice Web Developer, currently learning JavaScript, PHP, MySQL & Python</p>
 <div style='display: flex;' align="center">
   <a href= "mailto:jareynolds29@gmail.com">
         <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" title="Gmail" alt="Gmail" width="40"
